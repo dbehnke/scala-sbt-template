@@ -1,6 +1,6 @@
 package quickstart
 
-object quickstart extends Application {
+object quickstart extends App {
   println("Hello World!")
 }
 
